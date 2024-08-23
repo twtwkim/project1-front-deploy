@@ -28,7 +28,7 @@ const Header = ({isWhiteBackground, isScrolled, user, logout}) => {
             <div className={headerClassName} style={scrollBackgroundColor}>
                 <div className='navigation'>
                     <Link to="/main" className='nav-link'>
-                        <div style={{display:"flex", alignItems:"center"}}><img style={{width:"50px", marginRight:"10px"}} src='/src/assets/free-icon-football-ball-6223745.png'/> <h1>직관의 <span style={{color:"#845ef7"}}>맛</span></h1></div>
+                        <div style={{display:"flex", alignItems:"center"}}><img style={{width:"50px", marginRight:"10px"}} src='/assets/free-icon-football-ball-6223745.png'/> <h1>직관의 <span style={{color:"#845ef7"}}>맛</span></h1></div>
                     </Link>
                     <div/><div/><div/><div/><div/><div/><div/><div/><div/><div/><div/><div/><div/><div/><div/>
                     <div/><div/><div/><div/><div/><div/><div/>

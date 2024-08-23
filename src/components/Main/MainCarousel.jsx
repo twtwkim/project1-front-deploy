@@ -11,7 +11,7 @@ const MainCarousel = () => {
 
     const slides = [
         <div key="1" className='slides-container'>
-            <img src="../../src/assets/1.jpg" alt="1" />
+            <img src="../../assets/1.jpg" alt="1" />
             {activeSlide === 0 && (
                 <ScrollAnimation
                     startingPoint="left"
@@ -27,7 +27,7 @@ const MainCarousel = () => {
             )}
         </div>,
         <div key="2" className='slides-container'>
-            <img src="../../src/assets/2.jpg" alt="2" />
+            <img src="../../assets/2.jpg" alt="2" />
             {activeSlide === 1 && (
                 <ScrollAnimation
                     startingPoint="left"
@@ -43,7 +43,7 @@ const MainCarousel = () => {
             )}
         </div>,
         <div key="3" className='slides-container'>
-            <img src="../../src/assets/3.jpg" alt="3" />
+            <img src="../../assets/3.jpg" alt="3" />
             {activeSlide === 2 && (
                 <ScrollAnimation
                     startingPoint="left"
@@ -59,7 +59,7 @@ const MainCarousel = () => {
             )}
         </div>,
         <div key="4" className='slides-container'>
-            <img src="../../src/assets/4.jpg" alt="4" />
+            <img src="../../assets/4.jpg" alt="4" />
             {activeSlide === 3 && (
                 <ScrollAnimation
                     startingPoint="left"
@@ -74,16 +74,16 @@ const MainCarousel = () => {
             )}
         </div>,
         <div key="5" className='slides-container'>
-            <img src="../../src/assets/5.jpg" alt="5" />
+            <img src="../../assets/5.jpg" alt="5" />
         </div>,
         <div key="6" className='slides-container'>
-            <img src="../../src/assets/6.jpg" alt="6" />
+            <img src="../../assets/6.jpg" alt="6" />
         </div>,
         <div key="7" className='slides-container'>
-            <img src="../../src/assets/7.jpg" alt="7" />
+            <img src="../../assets/7.jpg" alt="7" />
         </div>,
         <div key="8" className='slides-container'>
-            <img src="../../src/assets/8.jpg" alt="8" />
+            <img src="../../assets/8.jpg" alt="8" />
         </div>,
     ];
 

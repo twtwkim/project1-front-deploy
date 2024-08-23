@@ -49,7 +49,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                 <div>|</div>
             </ul>
             <div className='first-box'>
-                <div><img src='/src/assets/free-icon-location-10420089.png'></img></div>
+                <div><img src='/assets/free-icon-location-10420089.png'></img></div>
                 <div className='first-box-info'>
                     <div>미팅일시 | <span>현지미팅 예정입니다.</span></div>
                     <div>미팅장소 | <span>SNS를 통해 안내드리겠습니다.</span></div>
@@ -71,7 +71,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                     </div>
                     <div className='day1-detail'>
                         <div className='day1-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem"}}>인천</div>                            
                             <div className='day1-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>개별 체크인 & 입국수속</div>
@@ -79,7 +79,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                             </div>
                         </div>
                         <div className='day1-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem"}}>런던</div>                            
                             <div className='day1-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black" }}>런던 도착</div>
@@ -88,7 +88,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                         </div>
                         <div className='day1-detail-content'>
                             <div className='day1-detail-hotel'>
-                                <img src='/src/assets/free-icon-hotel-5451846.png'></img>
+                                <img src='/assets/free-icon-hotel-5451846.png'></img>
                                 <div className='day1-detail-hotel-info'>
                                     <div>본 여행 상품의 숙박시설은 현재 미정입니다.</div>
                                     <div>출발 전까지 홈페이지 또는 SMS를 통해 안내드리겠습니다.</div>
@@ -97,7 +97,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                             </div>
                             <div className='day1-detail-restaurant'>
-                                <img src='/src/assets/free-icon-restaurant-12259416.png'></img>
+                                <img src='/assets/free-icon-restaurant-12259416.png'></img>
                                 <div className='day1-detail-meal'>
                                     <div style={{color:"#7048e8"}}>[조식]</div>
                                     <div style={{marginLeft:"20px"}}>-</div>
@@ -119,7 +119,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                     </div>
                     <div className='day2-detail'>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem", marginRight:"80px"}}>런던</div>                            
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>런던 도심투어</div>
@@ -136,8 +136,8 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                                 <hr/>
                                 <div className='day2-detail-title-image'>
-                                    <img src='/src/assets/117e351e03f4287b242b85cb31610ea7.webp' style={{width:'50%', marginRight:"10px"}}></img>
-                                    <img src='/src/assets/f1ec833364e8ff59fac8718fd0af1c5c.webp' style={{width:'50%'}}></img>
+                                    <img src='/assets/117e351e03f4287b242b85cb31610ea7.webp' style={{width:'50%', marginRight:"10px"}}></img>
+                                    <img src='/assets/f1ec833364e8ff59fac8718fd0af1c5c.webp' style={{width:'50%'}}></img>
                                 </div>
                                 <div style={{lineHeight:"20px"}}>
                                 빅 벤(Big Ben)은 영국 런던의 웨스트민스터 궁전 북쪽 흔히 종뿐만 아니라 시계탑 자체도 빅 벤이라고 부른다. 시계탑의 4면에는 세계에서 가장 큰 자명종 시계가 달려 있고, 시계 자체도 세워진 것들 가운데 세 번째로 높은 것이다. 2009년 5월 31일 건립 150주년을 축하하는 행사가 시계탑에서 있었다. 1859년에 세워진 빅 벤은 수많은 작품에서 런던을 상징하는 장소로 등장한 바 있으며, 매년 약 12,000명의 관광객이 찾는 대표적인 명소이기도 하다.
@@ -152,45 +152,45 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                                 <hr/>
                                 <div className='day2-detail-title-image'>
-                                    <img src='/src/assets/c7f7339ad334e013a796a9d90d97b865.webp' style={{width:'50%', marginRight:"10px"}}></img>
-                                    <img src='/src/assets/098d569e-9891-441e-b83c-701967ec37fc.jpg' style={{width:'50%'}}></img>
+                                    <img src='/assets/c7f7339ad334e013a796a9d90d97b865.webp' style={{width:'50%', marginRight:"10px"}}></img>
+                                    <img src='/assets/098d569e-9891-441e-b83c-701967ec37fc.jpg' style={{width:'50%'}}></img>
                                 </div>
                                 <div style={{lineHeight:"20px"}}>
                                 정식으로는 웨스트민스터 세인트 피터 성당 참사회(Collegiate Church of St. Peter in Westminster), 간략하게 웨스트민스터 사원(Westminster Abbey)은 런던 웨스트민스터에 있는 영국고딕 양식의 거대한 성공회 성당이다. 서쪽으로는 웨스트민스터 궁전(영국 국회의사당)과 인접해 있다. 전통적으로 이곳은 영국 왕의 대관식 등 왕실 행사를 거행하거나 매장터로 이용하는 곳이다. 부근에 있는 웨스트민스터 대성당(Westminster Cathedral)은 로마 가톨릭교회 소속으로 이곳 사원과는 전혀 별개의 것이다.
                                 </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>첼시 경기장으로 이동</div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>프리미어리그 경기 관람</div>
                                 <div>첼시 VS 토트넘 훗스퍼</div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-football-ball-6796454.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-football-ball-6796454.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>프리미어리그 1경기 관람</div>
                                 <div className='day2-detail-match1'>
-                                <img src='/src/assets/630.png' style={{width:"70px"}}/>
+                                <img src='/assets/630.png' style={{width:"70px"}}/>
                                     {slide && slide.matchups && slide.matchups.length > 0 && (
                                         <div>
                                             {slide.matchups[0].team1}
-                                            <img src='/src/assets/DPBEUFEuro2024FootballBannerDecoration.jpg'/>
+                                            <img src='/assets/DPBEUFEuro2024FootballBannerDecoration.jpg'/>
                                             {slide.matchups[0].team2}
                                         </div>
                                     )}
-                                    <img src='/src/assets/728.png' style={{width:"70px"}}/>
+                                    <img src='/assets/728.png' style={{width:"70px"}}/>
                                 </div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>호텔 이동 및 휴식</div>
                                 <div>전용 차량으로 이동</div>
@@ -198,7 +198,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                         </div>
                         <div className='day2-detail-content'>
                             <div className='day2-detail-hotel'>
-                                <img src='/src/assets/free-icon-hotel-5451846.png'></img>
+                                <img src='/assets/free-icon-hotel-5451846.png'></img>
                                 <div className='day2-detail-hotel-info'>
                                     <div>본 여행 상품의 숙박시설은 현재 미정입니다.</div>
                                     <div>출발 전까지 홈페이지 또는 SMS를 통해 안내드리겠습니다.</div>
@@ -207,7 +207,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                             </div>
                             <div className='day2-detail-restaurant'>
-                                <img src='/src/assets/free-icon-restaurant-12259416.png'></img>
+                                <img src='/assets/free-icon-restaurant-12259416.png'></img>
                                 <div className='day2-detail-meal'>
                                     <div style={{color:"#7048e8"}}>[조식]</div>
                                     <div style={{marginLeft:"20px"}}>호텔식</div>
@@ -229,7 +229,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                     </div>
                     <div className='day2-detail'>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem", marginRight:"80px"}}>런던</div>                            
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>토트넘 훗스퍼 구장투어</div>
@@ -245,34 +245,34 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                                 <hr/>
                                 <div className='day2-detail-title-image'>
-                                    <img src='/src/assets/new-white-hart-lane.avif' style={{width:'50%', marginRight:"10px"}}></img>
-                                    <img src='/src/assets/0_New-Spurs-stadium-14JPG.webp' style={{width:'50%'}}></img>
+                                    <img src='/assets/new-white-hart-lane.avif' style={{width:'50%', marginRight:"10px"}}></img>
+                                    <img src='/assets/0_New-Spurs-stadium-14JPG.webp' style={{width:'50%'}}></img>
                                 </div>
                                 <div style={{lineHeight:"20px"}}>
                                 토트넘 홋스퍼 스타디움(Tottenham Hotspur Stadium)은 잉글랜드의 축구 경기장이다. 노섬벌랜드 디벨롭먼트 프로젝트 (Northumberland Development Project)의 일환으로 건설되었다. 영국의 수도 런던의 북부 지역인 토트넘에 위치해있으며 프리미어리그에 소속되어있는 팀인 토트넘 홋스퍼의 홈구장 으로 사용되고 있다. 2007년 클럽은 홈구장의 수용인원을 늘리기 위한 일환으로 노섬벌랜드 디벨롭먼트 프로젝트 (Northumberland Development Project)를 세웠고, 경기장 신축안을 공개했다. 신축 경기장 수용인원은 56,250명 규모로 계획되어 있었으며 기존구장인 화이트 하트 레인 옆에 건설될 예정이었다. 경기장 신축을 포함해 지역 전반적인 재개발 사업을 뜻하는 프로젝트로 2018-2019 프리미어리그 개막을 목표로 건설하였다. 하지만 배수관 및 전력누수 등으로 인해 안전 진단을 통과하지 못해 언제 개장할지 확신할 수는 없다. 2015년 7월 8일 기존 수용 인원을 62,240 명으로 확대하였다. 2019년 4월 4일 공식 개장하며 잉글랜드 프리미어 리그 크리스탈 펠리스와 첫 경기 가졌다. 첫 경기에서 최초 득점 기록은 손흥민이 가지고있다.
                                 </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>맨체스터로 이동</div>
                                 <div>현지 기차로 이동</div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem", marginRight:"80px"}}>맨체스터</div>                            
                         </div>
                         
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>호텔 체크인 및 휴식</div>
                             </div>
                         </div>
                         <div className='day1-detail-content'>
                             <div className='day1-detail-hotel'>
-                                <img src='/src/assets/free-icon-hotel-5451846.png'></img>
+                                <img src='/assets/free-icon-hotel-5451846.png'></img>
                                 <div className='day1-detail-hotel-info'>
                                     <div>본 여행 상품의 숙박시설은 현재 미정입니다.</div>
                                     <div>출발 전까지 홈페이지 또는 SMS를 통해 안내드리겠습니다.</div>
@@ -281,7 +281,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                             </div>
                             <div className='day1-detail-restaurant'>
-                                <img src='/src/assets/free-icon-restaurant-12259416.png'></img>
+                                <img src='/assets/free-icon-restaurant-12259416.png'></img>
                                 <div className='day1-detail-meal'>
                                     <div style={{color:"#7048e8"}}>[조식]</div>
                                     <div style={{marginLeft:"20px"}}>호텔식</div>
@@ -303,7 +303,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                     </div>
                     <div className='day2-detail'>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem", marginRight:"80px"}}>맨체스터</div>                            
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>맨체스터 시티 경기장으로 이동</div>
@@ -318,46 +318,46 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                                 <hr/>
                                 <div className='day2-detail-title-image'>
-                                    <img src='/src/assets/wp10675176.jpg' style={{width:'50%', marginRight:"10px"}}></img>
-                                    <img src='/src/assets/0_GettyImages-1491808783.webp' style={{width:'50%'}}></img>
+                                    <img src='/assets/wp10675176.jpg' style={{width:'50%', marginRight:"10px"}}></img>
+                                    <img src='/assets/0_GettyImages-1491808783.webp' style={{width:'50%'}}></img>
                                 </div>
                                 <div style={{lineHeight:"20px"}}>
                                 에티하드 스타디움(Etihad Stadium), 시티 오브 맨체스터 스타디움(City of Manchester Stadium, 약어로 COMS, 별칭은 이스트랜즈)는 잉글랜드 맨체스터에 위치한 맨체스터 시티 FC의 홈 구장이다. 처음에는 맨체스터의 2000년 하계 올림픽 유치를 위해 설계되었으며, 2002년 코먼웰스 게임 개최를 위해 건설되었다. 건설 비용은 1억 1천만 £였다. 맨체스터 시티 FC는 2003년에 250년간의 임대 계약을 맺고서는 메인 로드에서 이곳으로 홈 구장을 옮겼다. 이 경기장은 단지(bowl) 모양이다. 경기장 전체 둘레로는 2개 층(two-tier) 관중석이 설치되어 있으며, 양측에는 그 위로 제 3층 관중석이 올라가 있다. 2007년 6월 23일 현재, 영국에서 10번째로 규모가 큰 경기장이며, 프리미어리그 내에서는 5번째로 규모가 큰 스타디움이다. 총 수용인원은 47,726명이었으나 증축으로 2015년 8월 현재 55,097으로 확장되었다. 2006년 1월 4일 이 경기장에서 2008년 UEFA 컵 결승전을 치를 것이라고 언론에 발표되었다. 2012년, 에티하드 항공으로부터 구장 명칭 사용권 계약을 체결하면서 시티 오브 맨체스터 스타디움(City of Manchester Stadium)에서 에티하드 스타디움(ETIHAD Stadium)으로 10년간 사용된다.
                                 </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>프리미어리그 경기 관람</div>
                                 <div>맨체스터시티 VS 울버햄튼</div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-football-ball-6796454.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-football-ball-6796454.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>프리미어리그 2경기 관람</div>
                                 <div className='day2-detail-match1'>
-                                <img src='/src/assets/679.png' style={{width:"70px"}}/>
+                                <img src='/assets/679.png' style={{width:"70px"}}/>
                                     {slide && slide.matchups && slide.matchups.length > 0 && (
                                         <div>
                                             {slide.matchups[1].team1}
-                                            <img src='/src/assets/DPBEUFEuro2024FootballBannerDecoration.jpg'/>
+                                            <img src='/assets/DPBEUFEuro2024FootballBannerDecoration.jpg'/>
                                             {slide.matchups[1].team2}
                                         </div>
                                     )}
-                                    <img src='/src/assets/740.png' style={{width:"70px"}}/>
+                                    <img src='/assets/740.png' style={{width:"70px"}}/>
                                 </div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>호텔 이동 및 휴식</div>
                             </div>
                         </div>
                         <div className='day1-detail-content'>
                             <div className='day1-detail-hotel'>
-                                <img src='/src/assets/free-icon-hotel-5451846.png'></img>
+                                <img src='/assets/free-icon-hotel-5451846.png'></img>
                                 <div className='day1-detail-hotel-info'>
                                     <div>본 여행 상품의 숙박시설은 현재 미정입니다.</div>
                                     <div>출발 전까지 홈페이지 또는 SMS를 통해 안내드리겠습니다.</div>
@@ -366,7 +366,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                             </div>
                             <div className='day1-detail-restaurant'>
-                                <img src='/src/assets/free-icon-restaurant-12259416.png'></img>
+                                <img src='/assets/free-icon-restaurant-12259416.png'></img>
                                 <div className='day1-detail-meal'>
                                     <div style={{color:"#7048e8"}}>[조식]</div>
                                     <div style={{marginLeft:"20px"}}>호텔식</div>
@@ -388,64 +388,64 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                     </div>
                     <div className='day2-detail'>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem", marginRight:"80px"}}>맨체스터</div>                            
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>리버풀로 이동</div>
                                 <div>현지 기차로 이동</div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem", marginRight:"80px"}}>리버풀</div>                            
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>프리미어리그 경기 관람</div>
                                 <div>리버풀 VS 토트넘 훗스퍼</div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-football-ball-6796454.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-football-ball-6796454.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>프리미어리그 3경기 관람</div>
                                 <div className='day2-detail-match1'>
-                                <img src='/src/assets/676.png' style={{width:"70px"}}/>
+                                <img src='/assets/676.png' style={{width:"70px"}}/>
                                     {slide && slide.matchups && slide.matchups.length > 0 && (
                                         <div>
                                             {slide.matchups[2].team1}
-                                            <img src='/src/assets/DPBEUFEuro2024FootballBannerDecoration.jpg'/>
+                                            <img src='/assets/DPBEUFEuro2024FootballBannerDecoration.jpg'/>
                                             {slide.matchups[2].team2}
                                         </div>
                                     )}
-                                    <img src='/src/assets/728.png' style={{width:"70px"}}/>
+                                    <img src='/assets/728.png' style={{width:"70px"}}/>
                                 </div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>맨체스터로 이동</div>
                                 <div>현지 기차로 이동</div>
                             </div>
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem", marginRight:"80px"}}>맨체스터</div>                            
                         </div>
                         <div className='day2-detail-title'>
-                            <img src='/src/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
+                            <img src='/assets/free-icon-loading-7082862.png' style={{width:"50px"}}></img>
                             <div className='day2-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>호텔 이동 및 휴식</div>
                             </div>
                         </div>
                         <div className='day1-detail-content'>
                             <div className='day1-detail-hotel'>
-                                <img src='/src/assets/free-icon-hotel-5451846.png'></img>
+                                <img src='/assets/free-icon-hotel-5451846.png'></img>
                                 <div className='day1-detail-hotel-info'>
                                     <div>본 여행 상품의 숙박시설은 현재 미정입니다.</div>
                                     <div>출발 전까지 홈페이지 또는 SMS를 통해 안내드리겠습니다.</div>
@@ -454,7 +454,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                                 </div>
                             </div>
                             <div className='day1-detail-restaurant'>
-                                <img src='/src/assets/free-icon-restaurant-12259416.png'></img>
+                                <img src='/assets/free-icon-restaurant-12259416.png'></img>
                                 <div className='day1-detail-meal'>
                                     <div style={{color:"#7048e8"}}>[조식]</div>
                                     <div style={{marginLeft:"20px"}}>호텔식</div>
@@ -476,7 +476,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                     </div>
                     <div className='day1-detail'>
                         <div className='day1-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem"}}>맨체스터</div>                            
                             <div className='day1-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>공항으로 이동</div>
@@ -486,7 +486,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                         </div>
                         <div className='day1-detail-content'>
                             <div className='day1-detail-restaurant'>
-                                <img src='/src/assets/free-icon-restaurant-12259416.png'></img>
+                                <img src='/assets/free-icon-restaurant-12259416.png'></img>
                                 <div className='day1-detail-meal'>
                                     <div style={{color:"#7048e8"}}>[조식]</div>
                                     <div style={{marginLeft:"20px"}}>호텔식</div>
@@ -508,7 +508,7 @@ const Schedule4 = ({currentDay, scrollToDay}) => {
                     </div>
                     <div className='day1-detail'>
                         <div className='day6-detail-title'>
-                            <img src='/src/assets/free-icon-location-14306835.png'></img>
+                            <img src='/assets/free-icon-location-14306835.png'></img>
                             <div style={{fontSize:"1.4rem"}}>인천</div>                            
                             <div className='day1-detail-info'>
                                 <div style={{fontSize:"1rem", color:"black"}}>인천국제공항 도착</div>

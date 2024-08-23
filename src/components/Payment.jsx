@@ -57,7 +57,7 @@ const Payment = () => {
     return (
         <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
             <div style={{ marginBottom: '20px' }}>아래 버튼을 눌러 예약금 결제를 진행해주세요.</div>
-            <img style={{ width: "120px", cursor: 'pointer' }} onClick={requestPay} src='/src/assets/payment_icon_yellow_medium.png' alt="payment icon" />
+            <img style={{ width: "120px", cursor: 'pointer' }} onClick={requestPay} src='/assets/payment_icon_yellow_medium.png' alt="payment icon" />
         </div>
     );
 };

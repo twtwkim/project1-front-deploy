@@ -72,19 +72,19 @@
 }
 
 .first{
-    background-image: url(/src/assets/wp4673442-audience-wallpapers.jpg);
+    background-image: url(/assets/wp4673442-audience-wallpapers.jpg);
     object-fit: cover;
     height: 100vh;
     width: 100vw;
 }
 .second{
-    background-image: url(/src/assets/pngtree-view-through-airplane-window-at-sunset-picture-image_2779032.jpg);
+    background-image: url(/assets/pngtree-view-through-airplane-window-at-sunset-picture-image_2779032.jpg);
     object-fit: cover;
     height: 100vh;
     width: 100vw;
 }
 .third{
-    background-image: url(/src/assets/ceoss.jpg);
+    background-image: url(/assets/ceoss.jpg);
     object-fit: cover;
     height: 100vh;
 }

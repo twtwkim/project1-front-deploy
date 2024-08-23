@@ -68,7 +68,7 @@ const ReviewCarousel = ({ posts, user }) => {
                 {posts.map((post) => (
                     
                     <div key={post._id}>
-                        <img src='/src/assets/free-icon-profile-2919906.png'
+                        <img src='/assets/free-icon-profile-2919906.png'
                         style={{width:"150px"}}></img>
                         <PostItem post={post} user={user} />
                     </div>

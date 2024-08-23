@@ -24,7 +24,7 @@ const Footer = () => {
                     <h2>직관의 맛 고객센터</h2>
                 </div>
                 <div className='footer-number'>
-                    <img src='../../src/assets/free-icon-call-5909756.png' alt='call'/>
+                    <img src='../../assets/free-icon-call-5909756.png' alt='call'/>
                     <h1>+82-2-8478-0000</h1>
                 </div>
                 <div className='footer-content'>
@@ -49,18 +49,18 @@ const Footer = () => {
                     <div/><div/><div/><div/><div/><div/><div/><div/>
                     <div>
                         <Link to={KAKAO_AUTH_URL}><img 
-                            src='../../src/assets/free-icon-kakao-talk-3991999.png' 
+                            src='../../assets/free-icon-kakao-talk-3991999.png' 
                             alt='카카오톡'
                             className='footer-link-image'/></Link>
                     </div>
                     <div>
                         <img 
-                            src='../../src/assets/free-icon-instagram-1409946.png'
+                            src='../../assets/free-icon-instagram-1409946.png'
                             alt='인스타그램'
                             className='footer-link-image'/>
                     </div>
                     <div>
-                        <img src='../../src/assets/naver.jpg'
+                        <img src='../../assets/naver.jpg'
                             alt='네이버'
                             className='footer-link-image'/>
                     </div>

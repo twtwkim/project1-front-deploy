@@ -9,7 +9,7 @@ const IntroDiv = styled.div`
     justify-content: center;
     height: 100vh;
     width: 100vw;
-    background-image: url('../../src/assets/wp6783293-football-fans-wallpapers.jpg');
+    background-image: url('../../assets/wp6783293-football-fans-wallpapers.jpg');
     background-size: cover;
     background-position: center;
     opacity: 1;
@@ -35,7 +35,7 @@ const Intro = () => {
     return (
         <IntroDiv>
             <AttentionSeeker>
-            <img style={{width:"80px", marginRight:"10px"}} src='/src/assets/free-icon-football-ball-6223745.png'/>
+            <img style={{width:"80px", marginRight:"10px"}} src='/assets/free-icon-football-ball-6223745.png'/>
             </AttentionSeeker>
             <div style={{fontSize:"5rem", color:"white"}}>직관의 <span style={{color:"#845ef7"}}>맛</span></div>
         </IntroDiv>
